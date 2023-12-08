@@ -1,0 +1,6 @@
+1.Tell me about Node and npm?
+2.Discribe about connection mongoDB from node js? write the syntax in the chat?
+3.what if the databases the password protected?
+4.Can you explain about middleware?
+5.what is index in mongodb?
+6.Can you write one endpoint like getting user you have to write on endpoint?write in the chat?
